@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="ivan">Иван</string>
+    <string name="marya">Марья</string>
+    <string name="petr">Петр</string>
+    <string name="anton">Антон</string>
+    <string name="darya">Даша</string>
+    <string name="boris">Борис</string>
+    <string name="kostya">Костя</string>
+    <string name="igor">Игорь</string>
+    <string name="ann">Анна</string>
+    <string name="denis">Денис</string>
+    <string name="andrey">Андрей</string>
+
+    <string name="headerText">Header Text</string>
+    <string-array name="namesArray">
+        <item>@string/ivan</item>
+        <item>@string/marya</item>
+        <item>@string/petr</item>
+        <item>@string/darya</item>
+        <item>@string/boris</item>
+        <item>@string/kostya</item>
+        <item>@string/igor</item>
+        <item>@string/ann</item>
+        <item>@string/denis</item>
+        <item>@string/andrey</item>
+    </string-array>
+
+
+    <string name="app_name">Test application</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
