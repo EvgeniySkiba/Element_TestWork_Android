@@ -12,7 +12,8 @@
     <string name="denis">Денис</string>
     <string name="andrey">Андрей</string>
 
-    <string name="headerText">Header Text</string>
+    <string name="headerText">First view Text</string>
+    <string name="headerText2">Second view Text</string>
     <string-array name="namesArray">
         <item>@string/ivan</item>
         <item>@string/marya</item>
